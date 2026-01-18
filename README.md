@@ -30,10 +30,9 @@ Sigue estos pasos para configurar tu entorno y empezar a trabajar con el curso:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/Curso-Ciencia-de-datos.git
+    git clone https://github.com/alejav0240/Curso-Ciencia-de-datos.git
     cd Curso-Ciencia-de-datos
     ```
-    *(Nota: Reemplaza `https://github.com/tu-usuario/Curso-Ciencia-de-datos.git` con la URL real de tu repositorio si lo subes a GitHub u otro servicio.)*
 
 2.  **Crea un entorno virtual (opcional pero recomendado):**
     ```bash
