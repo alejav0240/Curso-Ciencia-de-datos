@@ -8,6 +8,8 @@ Este repositorio es un curso introductorio y práctico a la ciencia de datos, di
 
 El curso abarca desde los fundamentos de la manipulación de datos hasta técnicas de análisis exploratorio, visualización avanzada y conceptos clave de minería de datos. Es ideal para principiantes y para aquellos que buscan reforzar sus conocimientos en el ecosistema de ciencia de datos con Python.
 
+![Home Preview](./images/home.png)
+
 ## Características Principales ✨
 
 *   **Jupyter Notebooks Interactivos:** Aprende haciendo con ejemplos de código ejecutables y explicaciones detalladas. 🧑‍💻
@@ -60,7 +62,8 @@ Una vez que Jupyter Notebook esté en funcionamiento, verás una lista de los ar
 
 **Ejemplo de uso:**
 
-Para explorar cómo trabajar con NumPy, haz clic en `Numpy.ipynb`. Dentro del notebook, podrás ejecutar las celdas de código, modificar el código y ver los resultados en tiempo real.```python
+Para explorar cómo trabajar con NumPy, haz clic en `Numpy.ipynb`. Dentro del notebook, podrás ejecutar las celdas de código, modificar el código y ver los resultados en tiempo real.
+```python
 import numpy as np
 
 # Crear un array de NumPy
@@ -73,7 +76,8 @@ print("Array multiplicado por 2:", arr * 2)
 
 Cada notebook está diseñado para ser autosuficiente en su tema, pero se recomienda seguir el orden propuesto para una mejor progresión de aprendizaje. ➡️
 
-## Estructura del Proyecto 🌳```
+## Estructura del Proyecto 🌳
+```
 Curso-Ciencia-de-datos/
 ├── data/
 │   ├── categorias.json
